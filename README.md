@@ -1,16 +1,26 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>jujutsu</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body id="juju">
+	<h1>Jujutsu No Kaizen</h1>
+	<br>
+	<a href="jujutsu.html" ><button>Jujutsu</button></a>
+<a href="attemp.html"><button>Kimetsu</button></a>
+	<br>
+	<img src="image/jujutsu.jfif" alt="goyo-sukuna" width="350px">
+	<form>
+		<input type="text" >
+		<input type="password" >
+		<input type="email" >
+		<input type="number" >
+		<input type="submit" >
+		<input type="range" min="25" max="50" >
 
-<!--
-**OliKaisen/Olikaisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	</form> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</body>
+</html>
