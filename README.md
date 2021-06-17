@@ -19,6 +19,7 @@
 		<input type="number" >
 		<input type="submit" >
 		<input type="range" min="25" max="50" >
+		<br>
 
 	</form> 
 
